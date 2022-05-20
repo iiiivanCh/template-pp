@@ -14,6 +14,10 @@
   background-size: cover;
 }
 
+.block-3 {
+  height: 55px;
+}
+
 .header__wrap {
   margin-bottom: 115px;
   display: flex;
@@ -22,6 +26,7 @@
 }
 
 .block-3__tel-number {
+  margin-bottom: 4px;
   font-weight: 400;
   font-size: 23.85px;
   line-height: 28px;

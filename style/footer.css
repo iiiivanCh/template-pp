@@ -8,7 +8,8 @@
 }
 
 .footer__block {
-  min-height: 146px;
+  padding-top: 2px;
+  min-height: 158px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -29,6 +30,7 @@
 }
 
 .footer__block-2 {
+  padding-right: 19px;
   font-weight: 500;
   font-size: 12px;
   line-height: 17px;

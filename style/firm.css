@@ -4,14 +4,14 @@
 }
 
 .firm__wrapper {
-  margin-bottom: 59px;
+  margin-bottom: 58px;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
 .firm__title {
-  margin-bottom: 25px;
+  margin-bottom: 26px;
   padding-top: 30px;
   font-weight: 700;
   font-size: 35px;
@@ -23,6 +23,7 @@
 .firm__hi {
   position: relative;
   margin-bottom: 35px;
+  padding-right: 3px;
   font-weight: 500;
   font-size: 22px;
   line-height: 26px;
@@ -33,7 +34,7 @@
 .firm__hi:before {
   content: "";
   position: absolute;
-  top: 13px;
+  top: 12px;
   left: -67px;
   width: 43px;
   border: 1px solid var(--color-text-2);
@@ -42,7 +43,7 @@
 .firm__hi:after {
   content: "";
   position: absolute;
-  top: 13px;
+  top: 12px;
   right: -65px;
   width: 43px;
   border: 1px solid var(--color-text-2);
@@ -75,7 +76,7 @@
 }
 
 .firm__img {
-  margin-bottom: 15px;
+  margin-bottom: 14px;
   padding-top: 10px;
   display: flex;
   justify-content: center;
