@@ -1,0 +1,12 @@
+:root {
+  --color-text-0: #FFFFFF;
+  --color-text-1: rgba(255, 255, 255, 0.86);
+  --color-text-11: rgba(255, 255, 255, 0.8);
+  --color-text-12: rgba(255, 255, 255, 0.5);
+  --color-text-2: #383A4C;
+  --color-text-3: #4A76A8;
+  --color-background-1: #F9F9F9;
+  --color-background-2: #15A9CB;
+  --color-background-3: #2F324B;
+  --color-background-4: #2A2C3F;
+}
